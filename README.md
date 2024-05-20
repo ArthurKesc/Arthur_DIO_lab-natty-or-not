@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Video PodCast - Usando Text to Audio, e o CapCup para criar um video viral
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Transformei o Podcast em um video para gerar engajamento nas minhas redes sociais
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, elevenlabs.io, huggingface.co
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+CDom o Chat GPT, criei os texto, com o Elen, transformei eles em Audio, com a ajuda do Cap, juntei os audios e videos para gerar um DarkPodcast para falar um pouco de IA e Excel
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Umvideo bem bacana de 3 minutos com 3 curiosidades de IA no Excel que muitos usam e poucos sabem.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Qualquer um com conhecimento, tempo e criatividade pode criar coisas que equipes de 20 pessoas fariam no dobro do tempo.
 ```
 
 ### Exemplos e Insigths
